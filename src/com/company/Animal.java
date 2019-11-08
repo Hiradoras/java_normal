@@ -2,7 +2,7 @@ package com.company;
 
 public class Animal {
 
-    public Animal(String name, String color, Integer legs, Boolean mammas){
+    public Animal(String color, Integer legs, Boolean mammas){
 
         this.color = color;
         this.legs= legs;
